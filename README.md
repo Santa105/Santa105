@@ -1,6 +1,7 @@
 # Hello there; welcome 👋🏾
 
  [![Linkedin Badge](https://img.shields.io/badge/-MUKHTAR-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukhtarbaruwa)](https://www.linkedin.com/in/mukhtarbaruwa) 
+ [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/iambolajiayo)
 
  
 I'm a Cybersecurity Analyst. I'm passionate about securing systems and uncovering vulnerabilities. Driven by knowledge sharing, clear documentation, and practical security solutions .
